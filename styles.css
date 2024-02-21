@@ -18,10 +18,9 @@
 	font-weight:bold;
 	font-size:15px;
 }
-.list b{
+.list i{
 	font-family:roboto;
-font-weight:italic;
+   font-weight:italic;
 	font-size:15px;
 	color:darkblue;
-}
 }
