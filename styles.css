@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+
+.fun{
+	border:5px solid lightBlue;
+	padding-inline:20px;
+	
+}
+.fun h1{
+	font-size:50px;
+}
+.fun p{
+	font-family:roboto;
+	font-weight:bold;
+	font-size:15px;
+}
+.list{
+	font-family:roboto;
+	font-weight:bold;
+	font-size:15px;
+}
+.list i{
+	font-family:roboto;
+font-weight:bold;
+	font-size:15px;
+	color:darkblue;
+}
+}
